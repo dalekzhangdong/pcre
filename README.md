@@ -1,2 +1,0 @@
-# pcre
-pcre for android
